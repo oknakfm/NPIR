@@ -2,16 +2,16 @@
 This repository provides R Source codes to reproduce numerical experiments in the following paper:
 
 ```
-@article{okuno2023NPIR,
-    year      = {2023},
+@article{okuno2024NPIR,
+    year      = {2024},
     publisher = {},
-    volume    = {},
-    number    = {},
-    pages     = {},
+    volume    = {18},
+    number    = {1},
+    pages     = {355-394},
     author    = {Akifumi Okuno and Masaaki Imaizumi},
     title     = {Minimax Analysis for Inverse Risk in Nonparametric Planer Invertible Regression},
     journal   = {Electronic Journal of Statistics},
-    note      = {accepted}
+    doi       = {10.1214/23-EJS2202}
 }
 ```
 
